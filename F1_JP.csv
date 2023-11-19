@@ -1,11 +1,11 @@
-"Name","Ticker","Sector","Subsector","ESG","Enironment","Social","Governance","Status"
-"Recruit Holdings Co., Ltd.","6098.T","Industrials","Staffing & Employment Services","11.24","0.05","5.94","5.24","Invest"
-"ORIX Corporation","8591.T","Financial Services","Credit Services","20.31","0.08","10.65","9.58","Invest"
-"Keyence Corporation","6861.T","Technology","Scientific & Technical Instruments","13.43","1.01","4.39","8.03","Invest"
-"Mitsubishi UFJ Financial Group, Inc.","8306.T","Financial Services","Banks - Diversified","18.39","1.08","10.48","6.83","Invest"
-"Fast Retailing Co., Ltd.","9983.T","Consumer Cyclical","Apparel Retail","14.6","1.88","5.93","6.78","Invest"
-"Sony Group Corporation","6758.T","Technology","Consumer Electronics","13.98","2.75","6.48","4.75","Divest"
-"ITOCHU Corporation","8001.T","Industrials","Conglomerates","21.49","7.14","6.33","8.02","Divest"
-"Toyota Motor Corporation","7203.T","Consumer Cyclical","Auto Manufacturers","28.87","7.37","11.17","10.33","Divest"
-"Hitachi, Ltd.","6501.T","Industrials","Conglomerates","34.39","9.97","13.14","11.28","Divest"
-"Shin-Etsu Chemical Co., Ltd.","4063.T","Basic Materials","Chemicals","30.72","12.98","7.11","10.64","Divest"
+Name,Ticker,Sector,Subsector,ESG,Enironment,Social,Governance,Status
+"Shin-Etsu Chemical Co., Ltd.",4063.T,Basic Materials,Chemicals,30.72,12.98,7.11,10.64,Divest
+"Recruit Holdings Co., Ltd.",6098.T,Industrials,Staffing & Employment Services,11.24,0.05,5.94,5.24,Invest
+"Hitachi, Ltd.",6501.T,Industrials,Conglomerates,34.39,9.97,13.14,11.28,Divest
+Sony Group Corporation,6758.T,Technology,Consumer Electronics,13.98,2.75,6.48,4.75,Divest
+Keyence Corporation,6861.T,Technology,Scientific & Technical Instruments,13.43,1.01,4.39,8.03,Invest
+Toyota Motor Corporation,7203.T,Consumer Cyclical,Auto Manufacturers,28.87,7.37,11.17,10.33,Divest
+ITOCHU Corporation,8001.T,Industrials,Conglomerates,21.49,7.14,6.33,8.02,Divest
+"Mitsubishi UFJ Financial Group, Inc.",8306.T,Financial Services,Banks - Diversified,18.39,1.08,10.48,6.83,Invest
+ORIX Corporation,8591.T,Financial Services,Credit Services,20.31,0.08,10.65,9.58,Invest
+"Fast Retailing Co., Ltd.",9983.T,Consumer Cyclical,Apparel Retail,14.6,1.88,5.93,6.78,Invest
